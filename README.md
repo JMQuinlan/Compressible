@@ -9,6 +9,7 @@ Colorado Springs
 
 ## Compressible flow calculations... With software.
 
-https://colab.research.google.com/github/JMQuinlan/Thermo/blob/main/Comp_ex.ipynb
+For example, Rayleigh flow:
+https://colab.research.google.com/github/JMQuinlan/Compressible/blob/main/Rayliegh_flow.ipynb
 
 
